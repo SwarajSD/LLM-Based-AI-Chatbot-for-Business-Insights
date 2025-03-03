@@ -56,7 +56,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 4️⃣ Obtain & Set Up the LLM Model
+### 4️⃣ Obtain & Set Up the LLM Model
 
 📌 **This chatbot works offline!** You need to download an **open-source LLM** and place it inside the `model1/` directory.
 
